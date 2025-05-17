@@ -2,7 +2,7 @@
 
 **Python Developer | QA & Systems Automation | Data Engineer-in-Training**
 
-🔭 Currently finishing my **B.S. in Computer Science** at Visayas State University (graduating August 2025)  
+🔭 Currently finishing my **B.S. in Computer Science** at Visayas State University (Graduating)
 🌱 Passionate about data automation, ETL pipelines, and QA testing—I've improved processing efficiency by 40% and cut release bugs by 72% in past roles  
 👀 Interests: data science, web & API automation, computer vision, and full‑stack prototyping (e.g., sign‑language‑to‑speech app)  
 💻 Skills & Tools:
